@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on interesting stuff, which is unfortunately not yet public. 
+- 🌱 I’m currently learning:
+    -  C/C++ (you never stop learning!)
+    -  Embedded stuff
+    -  Rust (next big thing?)
+    -  always interested in all kinds of signal processing!
 <!--
 **OweWi/OweWi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
